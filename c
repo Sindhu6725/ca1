@@ -10,3 +10,7 @@ case2:
 {
 printf(CSE);
 }
+case3:
+{
+printf(ECE);
+}
