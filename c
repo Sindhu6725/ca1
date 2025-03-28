@@ -13,6 +13,7 @@ printf("CSE");
 case3:
 {
 printf("ECE");
+printf("Amity");
 }
 case4:
 {
