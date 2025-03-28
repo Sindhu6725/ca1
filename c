@@ -18,4 +18,6 @@ case4:
 {
 printf(MCE);
 }
+printf("Amity university");
+printf("AUB");
 }
